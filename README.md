@@ -1,6 +1,3 @@
 Copy-mode Forgery Detection:
-
-  SLIC and SIFT is done.
-  Zernike is done.
-  Working on matching part of keypoints.
+    This is a copy move forgery detection project done using opencv with python.In this project fusion of keypoint based and block based has been used.
   
